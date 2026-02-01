@@ -26,8 +26,6 @@ HTTPS支持端口：`443`，`2053`，`2083`，`2087`，`2096`，`8443`。
 
 *   \*.cf.090227.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/youxuan.cf.090227.xyz:443) 泛域名 三网优选
 
-![](/images/cloudflare-youxuan/427b3fcf920e.png)
-
 *   **泛域名**的意思就是下列域名的使用效果都是一样的
     
     1. youxuan.cf.090227.xyz
@@ -42,28 +40,11 @@ HTTPS支持端口：`443`，`2053`，`2083`，`2087`，`2096`，`8443`。
 ## 官方优选域名
 
 *   mfa.gov.ua [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/mfa.gov.ua:443) 乌克兰政府官网
-
-![](/images/cloudflare-youxuan/fdd3063f2593.png)
-
 *   www.shopify.com [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/www.shopify.com:443)
-
-![](/images/cloudflare-youxuan/94cccfd3c05f.png)
-
 *   www.visa.cn [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/www.visa.cn:443)
-
-![](/images/cloudflare-youxuan/3436f12da067.png)
-
 *   time.is [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/time.is:443)
-
-![](/images/cloudflare-youxuan/952a2fbefe60.png)
-
 *   icook.hk [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/icook.hk:443)
-
-![](/images/cloudflare-youxuan/7b74c6bb66e3.png)
-
 *   icook.tw [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/icook.tw:443)
-
-![](/images/cloudflare-youxuan/7fef78fb9967.png)
 
 🚀 点击展开 **「官方优选域名列表」**
 
@@ -81,84 +62,25 @@ HTTPS支持端口：`443`，`2053`，`2083`，`2087`，`2096`，`8443`。
 > 未备注出处的为未知，来源均为网络收集，仅供参考
 
 *   \*.cloudflare.182682.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cf.cloudflare.182682.xyz:443) 泛域名 wetest.vip维护
-
-![](/images/cloudflare-youxuan/bacfb8da5b27.png)
-
 *   \*.tencentapp.cn [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cf.tencentapp.cn:443) 泛域名 ktff维护
-
-![](/images/cloudflare-youxuan/810a79fe2343.png)
-
 *   cf.877774.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cf.877774.xyz:443) 秋名山维护
-
-![](/images/cloudflare-youxuan/697273890214.png)
-
 *   cfip.xxxxxxxx.tk [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cfip.xxxxxxxx.tk:443) OTC维护
-
-![](/images/cloudflare-youxuan/8d52883fd229.png)
-
 *   bestcf.030101.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/bestcf.030101.xyz:443) MingYu维护
-
-![](/images/cloudflare-youxuan/ebe0f00748e3.png)
-
 *   777.ai7777777.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/777.ai7777777.xyz:443)
-
-![](/images/cloudflare-youxuan/e3d403ea320b.png)
-
 *   cdn.2020111.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cdn.2020111.xyz:443)
-
-![](/images/cloudflare-youxuan/5666472abb02.png)
-
 *   cfip.cfcdn.vip [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cfip.cfcdn.vip:443)
-
-![](/images/cloudflare-youxuan/845c6000f095.png)
-
 *   cf.0sm.com [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cf.0sm.com:443)
-
-![](/images/cloudflare-youxuan/d0aacf028d27.png)
-
 *   cfip.1323123.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cfip.1323123.xyz:443)
-
-![](/images/cloudflare-youxuan/d68f18ea5f2a.png)
-
 *   cloudflare-ip.mofashi.ltd [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cloudflare-ip.mofashi.ltd:443)
-
-![](/images/cloudflare-youxuan/647fd4f7cd24.png)
-
 *   cf.877771.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cf.877771.xyz:443)
-
-![](/images/cloudflare-youxuan/8e50ef3dab27.png)
-
 *   cf.900501.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cf.900501.xyz:443)
-
-![](/images/cloudflare-youxuan/3ac3c29a90ed.png)
-
 *   cdns.doon.eu.org [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/cdns.doon.eu.org:443)
-
-![](/images/cloudflare-youxuan/49a673e9508c.png)
-
 *   fn.130519.xyz [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/fn.130519.xyz:443)
-
-![](/images/cloudflare-youxuan/d621961402e7.png)
-
 *   nrt.xxxxxxxx.nyc.mn [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/nrt.xxxxxxxx.nyc.mn:443)
-
-![](/images/cloudflare-youxuan/ce81103f9fa7.png)
-
 *   nrtcfdns.zone.id [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/nrtcfdns.zone.id:443)
-
-![](/images/cloudflare-youxuan/017fb1639fcc.png)
-
 *   saas.sin.fan [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/saas.sin.fan:443)
-
-![](/images/cloudflare-youxuan/fa93a4b228a4.png)
-
 *   xn--b6gac.eu.org [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/xn--b6gac.eu.org:443)
-
-![](/images/cloudflare-youxuan/b69c3d45fb5b.png)
-
 *   freeyx.cloudflare88.eu.org [点击前往 itdog-tcping延迟测试](https://www.itdog.cn/tcping/freeyx.cloudflare88.eu.org:443)
-
-![](/images/cloudflare-youxuan/0d5396da466c.png)
 
 🚀 点击展开 **「一键复制 更多优选域名列表」**
 
