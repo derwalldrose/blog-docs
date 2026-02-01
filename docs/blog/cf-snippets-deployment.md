@@ -1,5 +1,5 @@
 ---
-title: "🚀 CF Snippets 节点部署手册：零门槛快速上手、付费域名全功能、免费 Cloudns 域名双向解析详解"
+title: 🚀 CF Snippets 节点部署手册：零门槛快速上手、付费域名全功能、免费 Cloudns 域名双向解析详解
 pubDate: 2026-01-31
 description: "Cloudflare Snippets 部署节点教程：功能检测、付费域名/Cloudns 域名两种部署方式，以及订阅生成器相关说明。"
 tags: ["Cloudflare", "Snippets", "Cloudns", "部署", "BPSUB"]
