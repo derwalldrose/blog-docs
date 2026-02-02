@@ -1,76 +1,58 @@
 {
   "data": [
     {
-      "title": "如何无广告看油管视频",
-      "description": "如何无广告看油管视频",
-      "date": "'2024-09-10T00:00:00.000Z'",
-      "url": "/blog/04925b2259a1"
-    },
-    {
-      "title": "链接",
-      "description": "'To use this feature, add links section to frontmatter.'",
-      "date": "'2001-01-01T00:00:00.000Z'",
-      "url": "/blog/87576d6c7d88"
-    },
-    {
       "title": "acme自动申请证书",
       "description": "acme自动申请证书",
       "date": "'2024-09-20T00:00:00.000Z'",
-      "url": "/blog/acme"
+      "url": "/blog/acme-auto-cert"
     },
     {
-      "title": "\"🚀 CF Snippets 节点部署手册：零门槛快速上手、付费域名全功能、免费 Cloudns 域名双向解析详解\"",
+      "title": "🚀 CF Snippets 节点部署手册：零门槛快速上手、付费域名全功能、免费 Cloudns 域名双向解析详解",
       "description": "\"Cloudflare Snippets 部署节点教程：功能检测、付费域名/Cloudns 域名两种部署方式，以及订阅生成器相关说明。\"",
       "date": "2026-01-31",
-      "url": "/blog/bpsub"
+      "url": "/blog/cf-snippets-deployment"
     },
     {
       "title": "CloudFlare中国大陆地区优选方案汇总",
       "description": "整理：Cloudflare 中国大陆地区优选方案（转载/汇总）",
       "date": "'2024-05-30T09:10:38.000Z'",
-      "url": "/blog/cloudflare-youxuan"
+      "url": "/blog/cloudflare-china-optimized"
     },
     {
       "title": "使用cloudflared搭建webssh",
       "description": "使用cloudflared搭建webssh",
       "date": "'2024-09-20T00:00:00.000Z'",
-      "url": "/blog/cloudflaredwebssh"
+      "url": "/blog/cloudflared-webssh"
     },
     {
-      "title": "爱影cms搭建iycms",
-      "description": "爱影cms搭建iycms",
-      "date": "'2024-10-20T00:00:00.000Z'",
-      "url": "/blog/cmsiycms"
+      "title": "🚀 Edgetunnel2.0 全新版本：就是这么简单！就是这么方便！",
+      "description": "\"Edgetunnel 2.0 更新概览与部署教程：Pages 上传部署、KV 绑定、变量设置、自定义域名，以及订阅/通知等功能说明。\"",
+      "date": "2026-01-31",
+      "url": "/blog/edgetunnel-2.0"
     },
     {
       "title": "从 Hugo 站点迁移到 Astro，并部署到 Cloudflare Pages",
       "description": "记录一次把历史博客内容抓取/迁移到 Astro，并通过 Wrangler 部署到 Cloudflare Pages 的全过程。",
       "date": "'2026-01-30T22:10:00+08:00'",
-      "url": "/blog/deploy-cloudflare-pages"
+      "url": "/blog/hugo-to-astro-cloudflare-pages"
     },
     {
-      "title": "\"🚀 Edgetunnel2.0 全新版本：就是这么简单！就是这么方便！\"",
-      "description": "\"Edgetunnel 2.0 更新概览与部署教程：Pages 上传部署、KV 绑定、变量设置、自定义域名，以及订阅/通知等功能说明。\"",
-      "date": "2026-01-31",
-      "url": "/blog/edt2"
+      "title": "爱影cms搭建iycms",
+      "description": "爱影cms搭建iycms",
+      "date": "'2024-10-20T00:00:00.000Z'",
+      "url": "/blog/iycms-setup"
     },
     {
-      "title": "Third post",
-      "description": "Lorem ipsum dolor sit amet",
-      "date": "Jul 22 2022",
-      "url": "/blog/third-post"
+      "title": "链接",
+      "description": "'To use this feature, add links section to frontmatter.'",
+      "date": "'2001-01-01T00:00:00.000Z'",
+      "url": "/blog/links"
     },
     {
-      "title": "Second post",
-      "description": "Lorem ipsum dolor sit amet",
-      "date": "Jul 15 2022",
-      "url": "/blog/second-post"
-    },
-    {
-      "title": "First post",
-      "description": "Lorem ipsum dolor sit amet",
-      "date": "Jul 08 2022",
-      "url": "/blog/first-post"
+      "title": "如何无广告看油管视频",
+      "description": "如何无广告看油管视频",
+      "date": "'2024-09-10T00:00:00.000Z'",
+      "url": "/blog/youtube-no-ads"
     }
   ]
 }
